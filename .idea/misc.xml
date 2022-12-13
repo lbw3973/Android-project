@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.137" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/drawable/Settings_foreground.xml" value="0.137" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/drawable/edge.xml" value="0.152" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.137" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/drawable/ic_comment_foreground.xml" value="0.152" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/drawable/ic_down_arrow.xml" value="0.152" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/drawable/ic_launcher_background.xml" value="0.137" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.137" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/drawable/ic_left_arrow.xml" value="0.137" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/drawable/ic_lock_foreground.xml" value="0.151" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/drawable/ic_random_foreground.xml" value="0.152" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/drawable/ic_refresh_foreground.xml" value="0.152" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/drawable/ic_settings_foreground.xml" value="0.1345" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/drawable/ic_share_foreground.xml" value="0.126" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/drawable/ic_splash_foreground.xml" value="0.151" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/drawable/ic_up_arrow.xml" value="0.137" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/drawable/layout_edge_black.xml" value="0.2105" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/drawable/layout_edge_gray.xml" value="0.151" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/drawable/leftArrow_foreground.xml" value="0.137" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/drawable/option_settings.xml" value="0.152" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/drawable/settings_foreground.xml" value="0.1355" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/drawable/textview_back_lightgray.xml" value="0.2105" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/drawable/textview_edge.xml" value="0.152" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/drawable/textview_edge_gray.xml" value="0.1345" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/drawable/textview_edge_lightgray.xml" value="0.152" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/layout/activity_chagnepw.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/layout/activity_datepicker.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/layout/activity_fileupload.xml" value="0.25" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/layout/activity_findidpw.xml" value="0.23052536231884058" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/layout/activity_login.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/layout/activity_mypage.xml" value="0.23052536231884058" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/layout/activity_settings.xml" value="0.264" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/layout/activity_signup.xml" value="0.264" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/layout/activity_splash.xml" value="0.12395833333333334" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/layout/main_lv_item.xml" value="0.14166666666666666" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/layout/spinner_mail_list.xml" value="0.13177083333333334" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/menu/bottom_menu.xml" value="0.189453125" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/menu/menu_option.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/menu/menu_share.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/mipmap-anydpi-v26/Settings.xml" value="0.1235" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/mipmap-anydpi-v26/ic_comment.xml" value="0.152" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/mipmap-anydpi-v26/ic_comment_round.xml" value="0.126" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.137" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.137" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/mipmap-anydpi-v26/ic_random.xml" value="0.152" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/mipmap-anydpi-v26/ic_share.xml" value="0.152" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/mipmap-anydpi-v26/ic_share_round.xml" value="0.152" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/mipmap-anydpi-v26/leftArrow.xml" value="0.137" />
+        <entry key="..\:/Users/lbw39/Documents/GoodGag/goodgag/app/src/main/res/mipmap-anydpi-v26/leftArrow_round.xml" value="0.137" />
+        <entry key="..\:/goodgag/goodgag/app/src/main/res/layout/activity_findidpw.xml" value="0.26874366767983787" />
+        <entry key="..\:/goodgag/goodgag/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/goodgag/goodgag/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/goodgag/goodgag/app/src/main/res/layout/activity_mypage.xml" value="0.40625" />
+        <entry key="..\:/goodgag/goodgag/app/src/main/res/layout/activity_settings.xml" value="0.1933876811594203" />
+        <entry key="..\:/goodgag/goodgag/app/src/main/res/layout/activity_signup.xml" value="0.5" />
+        <entry key="..\:/goodgag/goodgag/app/src/main/res/layout/main_lv_item.xml" value="0.2692502532928065" />
+        <entry key="..\:/goodgag/goodgag/app/src/main/res/menu/menu_option.xml" value="0.440625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
